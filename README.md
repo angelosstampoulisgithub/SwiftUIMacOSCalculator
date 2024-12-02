@@ -1,3 +1,4 @@
 # SwiftUIMacOSCalculator
 I made this simple macOS app in SwiftUI as a demo for the implementation Release Polish Notation algorithm
-<img width="482" alt="Screenshot 2024-11-26 at 8 38 44 PM" src="https://github.com/user-attachments/assets/a4ac9736-4e0d-43d4-95e7-fc9194991744">
+
+<img width="519" alt="Screenshot 2024-12-02 at 8 14 31 PM" src="https://github.com/user-attachments/assets/d51584e2-2ffd-47ea-a31e-3758b87997f0">
